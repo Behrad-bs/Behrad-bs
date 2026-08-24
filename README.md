@@ -1,8 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:302b63,100:0f0c29&height=280&section=header&text=BEHRAD%20KABIRI&fontSize=56&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Embedded%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=a5b4fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:302b63,100:0f0c29&height=280&section=header&text=%3C%20Hello%2C%20World%20%2F%3E&fontSize=54&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=I'm%20Behrad%20%E2%80%94%20Embedded%20Systems%20Engineer&descAlignY=52&descSize=19&descColor=a5b4fc" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Where+silicon+meets+software;STM32+%E2%80%A2+LoRaWAN+%E2%80%A2+RTOS+%E2%80%A2+Blockchain;I+build+things+that+don't+crash+at+3AM;Firmware+first%2C+everything+else+second" />
+<table align="center"><tr><td>
+
+```c
+/* boot.c */
+#include <stdint.h>
+
+uint8_t greeting[] = "Hello, I'm Behrad";
+const char* stack   = "bare-metal firmware -> blockchain";
+
+void main(void) {
+    init_MCU();          // STM32, register-level
+    join_network();       // LoRaWAN / IoT
+    sync_ledger();        // blockchain curious
+    while (1) { keep_building(); }
+}
+```
+
+</td></tr></table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Firmware+first%2C+ledger+second%2C+ego+last;STM32+%E2%80%A2+LoRaWAN+%E2%80%A2+RTOS+%E2%80%A2+Smart+Contracts;From+register+bits+to+block+headers;I+build+things+that+don't+crash+at+3AM" />
 
 <br>
 
@@ -26,26 +45,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 </p>
 
-<table align="center" width="100%">
-<tr><td align="center">
-
-```
-> whoami
-
-Embedded Systems & Software Engineer.
-I live at the boundary between silicon and code —
-designing systems from register-level firmware
-up to fully connected, networked applications.
-
-Obsessed with one question: why did this break?
-And then: how do I make sure it never does again.
-```
-
-</td></tr>
-</table>
-
-<br>
-
 <table align="center">
 <tr>
 <td align="center" width="20%">🔭<br><b>Building</b><br><sub>STM32 firmware<br>LoRaWAN & IoT</sub></td>
@@ -62,66 +61,60 @@ And then: how do I make sure it never does again.
 
 ## ⚙️ &nbsp; Stack
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%"><b>Languages</b></td>
-<td align="center" width="25%"><b>Embedded</b></td>
-<td align="center" width="25%"><b>Networking / IoT</b></td>
-<td align="center" width="25%"><b>Blockchain</b></td>
-</tr>
-<tr>
-<td align="center">
+<p align="center"><b>Languages</b></p>
+<p align="center">
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>&nbsp;
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>&nbsp;
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" /></a>&nbsp;
+<a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" /></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,rust&theme=dark" />
+<p align="center"><b>Embedded & Hardware</b></p>
+<p align="center">
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>&nbsp;
+<a href="https://www.raspberrypi.com/"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" /></a>&nbsp;
+<a href="https://www.st.com/content/st_com/en/about/stmicroelectronics-corporate-overview.html"><img src="https://img.shields.io/badge/STM32-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.freertos.org/"><img src="https://img.shields.io/badge/FreeRTOS-1e1b4b?style=flat-square&logo=freertos&logoColor=A78BFA" /></a>
+</p>
 
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /><br><br>
-<img src="https://img.shields.io/badge/STM32-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /><br>
-<img src="https://img.shields.io/badge/FreeRTOS-1e1b4b?style=flat-square&logo=freertos&logoColor=A78BFA" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/LoRa/LoRaWAN-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
-<img src="https://img.shields.io/badge/TCP%2FIP-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
-<img src="https://img.shields.io/badge/RS--485-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
+<p align="center"><b>Networking / IoT</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/LoRa/LoRaWAN-1e1b4b?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/TCP%2FIP-1e1b4b?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/RS--485-1e1b4b?style=flat-square&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/IoT-1e1b4b?style=flat-square&logoColor=A78BFA" />
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" /><br><br>
-<img src="https://img.shields.io/badge/Smart_Contracts-1e1b4b?style=flat-square&logo=ethereum&logoColor=A78BFA" />
-
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux&theme=dark" />
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>&nbsp;
+<a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" /></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>&nbsp;
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
 </p>
 
 <p align="center"><b>Build Systems</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/PlatformIO-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/pioarduino-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" />
+<a href="https://platformio.org/"><img src="https://img.shields.io/badge/PlatformIO-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://github.com/pioarduino"><img src="https://img.shields.io/badge/pioarduino-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" /></a>
 </p>
 
 <p align="center"><b>STM32Cube Ecosystem</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/STM32CubeIDE-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32CubeMX-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32CubeProgrammer-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32CubeMonitor-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://img.shields.io/badge/STM32CubeIDE-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/development-tools/stm32cubemx.html"><img src="https://img.shields.io/badge/STM32CubeMX-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/development-tools/stm32cubeprog.html"><img src="https://img.shields.io/badge/STM32CubeProgrammer-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/development-tools/stm32cubemonitor.html"><img src="https://img.shields.io/badge/STM32CubeMonitor-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>
 <br>
-<img src="https://img.shields.io/badge/STM32CubeCLT-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32Cube.AI-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32CubeMonUCPD-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/STM32CubeFW-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<a href="https://www.st.com/en/development-tools/stm32cubeclt.html"><img src="https://img.shields.io/badge/STM32CubeCLT-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/embedded-software/x-cube-ai.html"><img src="https://img.shields.io/badge/STM32Cube.AI-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/development-tools/stm32cubemonucpd.html"><img src="https://img.shields.io/badge/STM32CubeMonUCPD-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.st.com/en/embedded-software/stm32cube-mcu-mpu-packages.html"><img src="https://img.shields.io/badge/STM32CubeFW-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /></a>
 </p>
+
+<p align="center"><sub>💡 click any icon/badge above — it takes you straight to the tool's official site</sub></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
