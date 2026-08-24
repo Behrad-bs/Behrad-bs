@@ -1,147 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e1b4b,70:1e293b,100:0f172a&height=260&section=header&text=Behrad%20Kabiri&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Embedded%20Systems%20Engineer%20%E2%80%A2%20Firmware%20%E2%80%A2%20IoT%20%E2%80%A2%20Blockchain&descAlignY=55&descSize=19&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:302b63,100:0f0c29&height=280&section=header&text=BEHRAD%20KABIRI&fontSize=56&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Embedded%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=a5b4fc" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Firmware+that+ships%2C+not+just+compiles;STM32+%E2%80%A2+LoRaWAN+%E2%80%A2+RTOS+%E2%80%A2+Embedded+Networking;Where+hardware+meets+software%2C+I+live;Blockchain+curious%2C+bare-metal+native" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Where+silicon+meets+software;STM32+%E2%80%A2+LoRaWAN+%E2%80%A2+RTOS+%E2%80%A2+Blockchain;I+build+things+that+don't+crash+at+3AM;Firmware+first%2C+everything+else+second" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/behrad-kabiri-777138361">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:behradkabiri13841384@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Behrad-bs">
-  <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Behrad-bs&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/○-EMBEDDED-A78BFA?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/○-FIRMWARE-A78BFA?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/○-IOT-A78BFA?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/○-BLOCKCHAIN-A78BFA?style=for-the-badge&labelColor=1e1b4b" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/behrad-kabiri-777138361"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=1e1b4b" /></a>
+<a href="mailto:behradkabiri13841384@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=1e1b4b" /></a>
+<a href="https://github.com/Behrad-bs"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=Behrad-bs&style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=VIEWS" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+</p>
 
-## 🧭  About Me
+<table align="center" width="100%">
+<tr><td align="center">
 
-> An **Embedded Systems & Software Engineer** who lives at the boundary between silicon and code — designing systems from the lowest-level firmware and hardware interfaces up to fully connected applications.
+```
+> whoami
 
-Most of my work centers on **STM32, embedded networking, LoRa/LoRaWAN, IoT, and blockchain**. I'm especially drawn to understanding *why things break* — and then making them work reliably. 🔧
+Embedded Systems & Software Engineer.
+I live at the boundary between silicon and code —
+designing systems from register-level firmware
+up to fully connected, networked applications.
 
-<table>
-<tr><td>🔭</td><td><b>Currently working on</b></td><td>Embedded systems, STM32 firmware, LoRaWAN & IoT</td></tr>
-<tr><td>🌱</td><td><b>Currently learning</b></td><td>Advanced embedded systems, embedded networking & blockchain</td></tr>
-<tr><td>🤝</td><td><b>Open to collaborate on</b></td><td>Open-source embedded, IoT & blockchain projects</td></tr>
-<tr><td>🙋</td><td><b>Looking for help with</b></td><td>Low-level firmware, embedded networking & system architecture</td></tr>
-<tr><td>💬</td><td><b>Ask me about</b></td><td>STM32 • Firmware • LoRa/LoRaWAN • Embedded Systems • Blockchain</td></tr>
-<tr><td>⚡</td><td><b>Fun fact</b></td><td>I enjoy debugging hardware almost as much as building it</td></tr>
+Obsessed with one question: why did this break?
+And then: how do I make sure it never does again.
+```
+
+</td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+<br>
 
-## 🧰  Tech Stack
-
-<table width="100%">
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="20%">🔭<br><b>Building</b><br><sub>STM32 firmware<br>LoRaWAN & IoT</sub></td>
+<td align="center" width="20%">🌱<br><b>Learning</b><br><sub>Embedded networking<br>Blockchain systems</sub></td>
+<td align="center" width="20%">🤝<br><b>Collaborating</b><br><sub>Open-source embedded<br>& IoT projects</sub></td>
+<td align="center" width="20%">🙋<br><b>Need help with</b><br><sub>System architecture<br>Low-level firmware</sub></td>
+<td align="center" width="20%">⚡<br><b>Fun fact</b><br><sub>I debug hardware<br>for fun</sub></td>
+</tr>
+</table>
 
-**Languages**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,solidity&theme=dark" />
+## ⚙️ &nbsp; Stack
 
-**Embedded & Hardware**
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td align="center" width="25%"><b>Embedded</b></td>
+<td align="center" width="25%"><b>Networking / IoT</b></td>
+<td align="center" width="25%"><b>Blockchain</b></td>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /><br>
-<img src="https://img.shields.io/badge/STM32-6366F1?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/FreeRTOS-6366F1?style=flat-square&logo=freertos&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded_C-6366F1?style=flat-square&logo=c&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust&theme=dark" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center">
 
-**IoT & Networking**
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /><br><br>
+<img src="https://img.shields.io/badge/STM32-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" /><br>
+<img src="https://img.shields.io/badge/FreeRTOS-1e1b4b?style=flat-square&logo=freertos&logoColor=A78BFA" />
 
-<img src="https://img.shields.io/badge/LoRa-4F46E5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRaWAN-4F46E5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-4F46E5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RS--485-4F46E5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-4F46E5?style=flat-square&logoColor=white" />
+</td>
+<td align="center">
 
-**Blockchain**
+<img src="https://img.shields.io/badge/LoRa/LoRaWAN-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
+<img src="https://img.shields.io/badge/TCP%2FIP-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
+<img src="https://img.shields.io/badge/RS--485-1e1b4b?style=flat-square&logoColor=A78BFA" /><br>
+<img src="https://img.shields.io/badge/IoT-1e1b4b?style=flat-square&logoColor=A78BFA" />
 
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-<img src="https://img.shields.io/badge/Blockchain-312E81?style=flat-square&logo=ethereum&logoColor=white" />
+</td>
+<td align="center">
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" /><br><br>
+<img src="https://img.shields.io/badge/Smart_Contracts-1e1b4b?style=flat-square&logo=ethereum&logoColor=A78BFA" />
 
+</td>
+</tr>
+</table>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux&theme=dark" />
+</p>
+
+<p align="center"><b>Build Systems</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/PlatformIO-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/pioarduino-1e1b4b?style=flat-square&logo=platformio&logoColor=A78BFA" />
+</p>
+
+<p align="center"><b>STM32Cube Ecosystem</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/STM32CubeIDE-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32CubeMX-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32CubeProgrammer-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32CubeMonitor-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<br>
+<img src="https://img.shields.io/badge/STM32CubeCLT-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32Cube.AI-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32CubeMonUCPD-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/STM32CubeFW-1e1b4b?style=flat-square&logo=stmicroelectronics&logoColor=A78BFA" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+</p>
+
+## 🧩 &nbsp; What I Build
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔧&nbsp; Embedded Systems
+Low-level firmware, peripheral drivers, RTOS applications, communication protocols, and hardware bring-up — from reset vector to running system.
+
+</td>
+<td width="50%" valign="top">
+
+### 📡&nbsp; Connected Devices
+IoT devices and LoRa/LoRaWAN nodes built for reliability — wireless links that stay up when it matters.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️&nbsp; Blockchain
+Decentralized systems and smart contracts, exploring where blockchain meets real, physical devices.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪&nbsp; Hardware + Software
+Full-stack hardware engineering — schematic, PCB, firmware, and the finished system that ties it together.
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+</p>
 
-## 🚀  What I Like Building
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Embedded Systems
-Low-level firmware, peripheral drivers, RTOS-based applications, communication protocols, and hardware bring-up.
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Connected Devices
-IoT devices, LoRa/LoRaWAN nodes, wireless communication, and reliable embedded networking.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain
-Exploring decentralized systems, smart contracts, and where blockchain meets real-world devices.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Hardware + Software
-Taking an idea from schematic and PCB all the way to working firmware and a finished system.
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-## 📊  GitHub Analytics
+## 📊 &nbsp; Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Behrad-bs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&count_private=true" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Behrad-bs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=c9d1d9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Behrad-bs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Behrad-bs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Behrad-bs&theme=tokyonight&hide_border=true&background=00000000&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Behrad-bs&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </p>
-
-## 📈  Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Behrad-bs&bg_color=00000000&color=818CF8&line=818CF8&point=ffffff&area=true&hide_border=true&custom_title=Behrad's%20Contribution%20Graph" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Behrad-bs&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
 </p>
 
-## 🐍  Contribution Snake
+## 📈 &nbsp; Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Behrad-bs&bg_color=00000000&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Behrad-bs/Behrad-bs/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -149,22 +199,18 @@ Taking an idea from schematic and PCB all the way to working firmware and a fini
 
 <div align="center">
 
-### 🌐 Connect With Me
+## 🌐 &nbsp; Let's Connect
 
-<a href="https://www.linkedin.com/in/behrad-kabiri-777138361">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:behradkabiri13841384@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Behrad-bs">
-  <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/behrad-kabiri-777138361"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=1e1b4b" /></a>
+<a href="mailto:behradkabiri13841384@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=1e1b4b" /></a>
+<a href="https://github.com/Behrad-bs"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 
 <br><br>
 
-<i>Building. Breaking. Debugging. Learning. Repeating. 🔧</i>
+<i>Building · Breaking · Debugging · Learning · Repeating 🔧</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:1e1b4b,100:0f172a&height=120&section=footer" width="100%" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:302b63,100:0f0c29&height=140&section=footer" width="100%" />
 
 </div>
