@@ -84,7 +84,7 @@ Most of my work revolves around **STM32, embedded networking, LoRa/LoRaWAN, IoT,
 ## `02` 🔗 Functional Block Diagram
 
 <div align="center">
-<img src="assets/block-diagram.svg" width="100%" alt="Functional block diagram showing sensors and peripherals feeding an STM32 MCU/RTOS core, which connects out to a LoRaWAN/BLE radio, an MQTT/cloud gateway, and a blockchain ledger" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=081410&height=180&text=System%20Block%20Diagram%20Coming%20Soon...&fontSize=26&fontColor=C97C4B" width="100%" alt="Functional block diagram" style="border: 1px solid #0F3D30; border-radius: 8px;" />
 </div>
 
 <div align="center">
@@ -217,6 +217,7 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 
 ## `06` 🧩 Package Options
 
+<!-- REPOS_START -->
 <div align="center">
 
 |  |  |
@@ -225,6 +226,7 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 | <a href="https://github.com/Behrad-bs/BlockForge-Solidity"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=BlockForge-Solidity&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> | <a href="https://github.com/Behrad-bs/STMWorks"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=STMWorks&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> |
 
 </div>
+<!-- REPOS_END -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
