@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:081410,30:0F3D30,50:1B5240,70:0F3D30,100:081410&height=220&text=Hello!%20I'm%20Behrad&fontSize=52&fontColor=EDE6D6&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20%7C%20IoT%20%7C%20Blockchain&descAlignY=58&descSize=18&descColor=C97C4B&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:081410,30:0F3D30,50:1B5240,70:0F3D30,100:081410&height=220&text=Hello!%20I%27m%20Behrad&fontSize=52&fontColor=EDE6D6&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20%7C%20IoT%20%7C%20Blockchain&descAlignY=58&descSize=18&descColor=C97C4B&animation=fadeIn" width="100%" alt="header" />
 
 `PART NO. BEHRAD-ES-01` &nbsp;·&nbsp; `REV. 2026.08` &nbsp;·&nbsp; `EMBEDDED SYSTEMS ENGINEER`
 
@@ -32,13 +32,36 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
+<div align="center">
+
+|  |  |  |
+|:--:|:--:|:--:|
+| `01` General Description | `02` Block Diagram | `03` Pin Configuration |
+| `04` Performance | `05` Typical Applications | `06` Package Options |
+| `07` Electrical Characteristics | `08` Timing Diagram | `09` Ordering Info |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
+</div>
+
 <br/>
 
-## 📋 General Description
+## `01` 📋 General Description
 
 I'm an **Embedded Systems & Software Engineer** working at the intersection of hardware and software — from the lowest-level firmware and hardware interfaces all the way up to connected, production-ready applications.
 
 Most of my work revolves around **STM32, embedded networking, LoRa/LoRaWAN, IoT, and blockchain technologies**. I'm especially interested in understanding *why things break* — and then making them work reliably. 🔧
+
+**✨ Features**
+
+- Bare-metal & RTOS-based firmware development (FreeRTOS, Zephyr)
+- STM32-centered embedded design, from hardware bring-up to production
+- LoRa/LoRaWAN network design for low-power wide-area connectivity
+- Embedded networking across RS-485, Modbus, TCP/IP, and MQTT
+- Smart-contract fundamentals on Ethereum-compatible chains
+- Hardware debugging with JTAG/SWD, logic analyzers, and oscilloscopes
 
 <div align="center">
 
@@ -58,7 +81,17 @@ Most of my work revolves around **STM32, embedded networking, LoRa/LoRaWAN, IoT,
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
-## ⚙️ Pin Configuration & Features
+## `02` 🔗 Functional Block Diagram
+
+<div align="center">
+<img src="assets/block-diagram.svg" width="100%" alt="Functional block diagram showing sensors and peripherals feeding an STM32 MCU/RTOS core, which connects out to a LoRaWAN/BLE radio, an MQTT/cloud gateway, and a blockchain ledger" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
+</div>
+
+## `03` ⚙️ Pin Configuration & Features
 
 ### 💻 Languages
 
@@ -124,7 +157,28 @@ Most of my work revolves around **STM32, embedded networking, LoRa/LoRaWAN, IoT,
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
-## 🎯 Typical Applications
+## `04` 🔋 Performance Characteristics
+
+<div align="center">
+
+| Skill | Level |
+|:--|:--|
+| Embedded C / C++ | `█████████████████░░░` 85% |
+| STM32 / Bare-metal Firmware | `████████████████░░░░` 80% |
+| RTOS (FreeRTOS · Zephyr) | `██████████████░░░░░░` 70% |
+| LoRa / LoRaWAN | `███████████████░░░░░` 75% |
+| Embedded Networking (RS-485 · Modbus · MQTT) | `██████████████░░░░░░` 70% |
+| Solidity / Smart Contracts | `███████████░░░░░░░░░` 55% |
+
+<sub><i>Self-rated, for a quick-scan overview — adjust freely.</i></sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
+</div>
+
+## `05` 🎯 Typical Applications
 
 <table width="100%">
 <tr>
@@ -161,7 +215,22 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
-## 📈 Electrical Characteristics
+## `06` 🧩 Package Options
+
+<div align="center">
+
+|  |  |
+|:--:|:--:|
+| <a href="https://github.com/Behrad-bs/ArduWorks"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=ArduWorks&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> | <a href="https://github.com/Behrad-bs/ESPWorks-IoT"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=ESPWorks-IoT&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> |
+| <a href="https://github.com/Behrad-bs/BlockForge-Solidity"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=BlockForge-Solidity&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> | <a href="https://github.com/Behrad-bs/STMWorks"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Behrad-bs&repo=STMWorks&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=C97C4B&text_color=EDE6D6" /></a> |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
+</div>
+
+## `07` 📈 Electrical Characteristics
 
 <div align="center">
 
@@ -170,7 +239,7 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Behrad-bs&theme=tokyonight&hide_border=true&background=00000000&stroke=0F3D30&ring=D4AF37&fire=C97C4B&currStreakNum=D4AF37&sideNums=EDE6D6&currStreakLabel=C97C4B&sideLabels=EDE6D6&dates=EDE6D6" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Behrad-bs&theme=tokyonight&hide_border=true&background=00000000&stroke=0F3D30&ring=D4AF37&fire=C97C4B&currStreakNum=D4AF37&sideNums=EDE6D6&currStreakLabel=C97C4B&sideLabels=EDE6D6&dates=EDE6D6" alt="Streak Stats" />
 
 </div>
 
@@ -178,11 +247,11 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
-## ⏱️ Timing Diagram
+## `08` ⏱️ Timing Diagram
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Behrad-bs&bg_color=00000000&color=EDE6D6&line=C97C4B&point=D4AF37&area=true&hide_border=true&custom_title=Behrad's%20Contribution%20Timeline" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Behrad-bs&bg_color=00000000&color=EDE6D6&line=C97C4B&point=D4AF37&area=true&hide_border=true&custom_title=Behrad%27s%20Contribution%20Timeline" width="95%" alt="Contribution Graph" />
 
 <br/>
 
@@ -200,7 +269,7 @@ Taking an idea from schematic and PCB all the way through firmware to a finished
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081410,40:0F3D30,50:C97C4B,60:0F3D30,100:081410&height=3" width="420" alt="" />
 </div>
 
-## 📦 Ordering & Contact Information
+## `09` 📦 Ordering & Contact Information
 
 <div align="center">
 
