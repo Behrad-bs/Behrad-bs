@@ -84,7 +84,7 @@ Most of my work revolves around **STM32, embedded networking, LoRa/LoRaWAN, IoT,
 ## `02` 🔗 Functional Block Diagram
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=081410&height=180&text=System%20Block%20Diagram%20Coming%20Soon...&fontSize=26&fontColor=C97C4B" width="100%" alt="Functional block diagram" style="border: 1px solid #0F3D30; border-radius: 8px;" />
+<img src="assets/block-diagram.svg" width="100%" alt="Functional block diagram showing sensors and peripherals feeding an STM32 MCU/RTOS core, which connects out to a LoRaWAN/BLE radio, an MQTT/cloud gateway, and a blockchain ledger" />
 </div>
 
 <div align="center">
